@@ -18,3 +18,6 @@ This project is designed to manage hospital operations like patient records, doc
 ## ▶️ How to Run
 1. Download the project
 2. Run main.py
+## 📸 Project Screenshot
+
+![Output](output.png)
