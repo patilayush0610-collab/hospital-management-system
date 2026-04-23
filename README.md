@@ -20,4 +20,4 @@ This project is designed to manage hospital operations like patient records, doc
 2. Run main.py
 ## 📸 Project Screenshot
 
-![Output](https://raw.githubusercontent.com/patilayush0610-collab/hospital-management-system/main/output.png)
+![Output](output.png)
